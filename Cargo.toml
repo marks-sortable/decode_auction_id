@@ -1,0 +1,9 @@
+[package]
+name = "decode_auction_id"
+version = "0.1.0"
+authors = ["Mark Sherry <marks@sortable.com>"]
+
+[dependencies]
+data-encoding = "2.1"
+structopt = "0.2"
+byteorder = "1.2"
